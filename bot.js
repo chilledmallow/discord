@@ -19,11 +19,6 @@ client.on('message', message => {
        message.reply('Welcome to the server! Thank you so much for joining. The server is about literally everything, it does not specifically have a theme, we just go with the flow of things around here. Just be nice and have fun');
 
        }
- if (message.content === 'v!help') {
- 
- message.reply('Welcome to the help section. 
-               We currently only have one command:
-               `v!info` - Gives info on the server!}
 
 });
 
